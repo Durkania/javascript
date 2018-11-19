@@ -115,7 +115,6 @@ asignarEventosBotones: function(){
     document.getElementById('igual').addEventListener("click", function(){
       calculadora.derivadoled();
     });
-
   },
 
   ingresarNumero: function(numero){
